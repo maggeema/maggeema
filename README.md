@@ -2,7 +2,7 @@
 **maggeema/maggeema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-```txt
+```
 Hello hello! My name is Maggie Ma, and I am currently a 
 sophomore computer science major at CUNY Hunter College. 
 
