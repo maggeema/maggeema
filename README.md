@@ -30,7 +30,6 @@ music!
 🐈 Proud cat mom to Tobi (aka Tobiason)
 🌱 Currently learning: Python and C++
 🏋️‍♀️ Current hobbies: Lifiting and making weekly TikTok vlogs
-🎶 Go-to coding music: [Hip hop but it's extra chill]
-[Hip hop but it's extra chill]: https://www.youtube.com/watch?v=7bSlyM1allk
+🎶 Go-to coding music: [Hip hop but it's extra chill](https://www.youtube.com/watch?v=7bSlyM1allk)
 ✨ Instagram and TikTok: @maggeema
 ```
