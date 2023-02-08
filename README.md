@@ -10,8 +10,8 @@ Prior to this tech journey, I was a competitive classical
 pianist. I had been a musician for over 10 years, gave
 private lessons to young children, and even went to a semester 
 of conservatory at Manhattan School of Music. It was definetely 
-toxic and not great for my mental, and I was willing to let go 
-of my past to explore other career paths that was better for 
+not great for my mental health, and I was willing to let go 
+of my past to explore other career paths that were better for 
 my well-being. 
 
 The tech industry has been poppin' off (especially as remote
