@@ -29,6 +29,7 @@ music!
 
 🐈 Proud cat mom to Tobi (aka Tobiason)
 🌱 Currently learning: Python and C++
+🎮 Video game design instuctor for Kodely
 🏋️‍♀️ Current hobbies: Lifiting and making weekly TikTok vlogs
 🎶 Go-to coding music: https://www.youtube.com/watch?v=7bSlyM1allk
 ✨ Instagram and TikTok: @maggeema
