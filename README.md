@@ -7,9 +7,15 @@ Hello hello! I am currently a computer science major at CUNY Hunter College. <br
 ### 💻 Knowledge gained over the years:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
 ### 🌐 Get to know me outside of coding:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maggeema) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maggeema) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maggeema) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maggiema6006) 
+
+### ♿ Aspiring to make tech more accessible for users through UX/Product Design:
+Immi (Best Beginner-Hack at the 2024 HackCUNY!): https://devpost.com/software/immi-onkp0a
+Find Your Throne (app built to help New Yorkers fight the bathroom crisis!): https://www.canva.com/design/DAGHYXXCHBg/9ZMUiFEtTJII5Oc4hH_QuA/edit?utm_content=DAGHYXXCHBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Asylee (platform and resource built to be implemented into LinkNYC kiosks for asylum seekers): https://www.canva.com/design/DAF1xTuvDq0/uAi_92qYAd-H3duVEGwUUA/edit?utm_content=DAF1xTuvDq0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Bridge (a 3-hour project task that got me accepted to Project Alpaca!): https://www.canva.com/design/DAFpks4QvA8/s-fbuclWqOzlWSmdRBsDCQ/edit?utm_content=DAFpks4QvA8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+fAshIon For Impact (my first hackathon project ever, presented at the NYC 2023 Mentorship Program!): https://www.canva.com/design/DAFpv6cCQ8M/VU8tY6niMcOamR7b-skkVg/edit?utm_content=DAFpv6cCQ8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### ✨ Sharing some wise words:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
