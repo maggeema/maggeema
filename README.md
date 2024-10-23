@@ -14,7 +14,7 @@ Hello hello! I am currently a computer science major at CUNY Hunter College. <br
 <br><a href="https://www.canva.com/design/DAFpks4QvA8/s-fbuclWqOzlWSmdRBsDCQ/edit?utm_content=DAFpks4QvA8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Bridge</a>: A 3-hour project task that got me accepted to Project Alpaca and aims to foster community in NYC based on user interests.
 <br><a href="https://www.canva.com/design/DAFpv6cCQ8M/VU8tY6niMcOamR7b-skkVg/edit?utm_content=DAFpv6cCQ8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">fAshIon for Impact</a>: My first hackathon project ever! Designed for a Microsoft Hackathon and presented at the NYC 2023 Microsoft Mentorship Program! A web extension made to improve the e-shopping for clothing and increase accessibility to users, while reducing textile waste and offering a new way for fashion companies to cater their products to their target audience!
 
-### 🌐 Get to know me outside of computer science:
+### 🌐 Get to know more about me:
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/maggeema) [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maggeema) [![TikTok](https://img.shields.io/badge/TikTok%20-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@maggeema) [![YouTube](https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@maggiema6006) 
 
 ### ✨ Sharing some wise words:
