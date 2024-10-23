@@ -9,13 +9,9 @@ Hello hello! I am currently a computer science major at CUNY Hunter College. <br
 
 ### ♿ Aspiring to make tech more accessible for users through UX/Product Design:
 <a href="https://devpost.com/software/immi-onkp0a">Immi</a>: Best Beginner-Hack at the 2024 HackCUNY! An app designed to help immigrant parents & families and alleviate child language brokering. 
-
 <br><a href="https://www.canva.com/design/DAGHYXXCHBg/9ZMUiFEtTJII5Oc4hH_QuA/edit?">Find Your Throne</a>: An app built to help New Yorkers fight the bathroom crisis.
-
 <br><a href="https://www.canva.com/design/DAF1xTuvDq0/uAi_92qYAd-H3duVEGwUUA/edit?utm_content=DAF1xTuvDq0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Asylee</a>: A platform and resource designed to be implemented into LinkNYC Kiosks for asylum seekers.
-
-<br><a href="https://www.canva.com/design/DAFpks4QvA8/s-fbuclWqOzlWSmdRBsDCQ/edit?utm_content=DAFpks4QvA8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Bridge</a>: A 3-hour project task that got me accepted to Project Alpaca to foster community in NYC based on user interests.
-
+<br><a href="https://www.canva.com/design/DAFpks4QvA8/s-fbuclWqOzlWSmdRBsDCQ/edit?utm_content=DAFpks4QvA8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Bridge</a>: A 3-hour project task that got me accepted to Project Alpaca and aims to foster community in NYC based on user interests.
 <br><a href="https://www.canva.com/design/DAFpv6cCQ8M/VU8tY6niMcOamR7b-skkVg/edit?utm_content=DAFpv6cCQ8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">fAshIon for Impact</a>: My first hackathon project ever! Designed for Microsoft Hackathon and presented at the NYC 2023 Microsoft Mentorship Program! A web extension designed to make e-shopping for clothing more accessible to users, while reducing textile waste and offering a new way for fashion companies to cater their products to the intended audience!
 
 ### 🌐 Get to know me outside of computer science:
