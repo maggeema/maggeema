@@ -15,7 +15,7 @@ Hello hello! I am currently a computer science major at CUNY Hunter College. <br
 <br><a href="https://www.canva.com/design/DAFpv6cCQ8M/VU8tY6niMcOamR7b-skkVg/edit?utm_content=DAFpv6cCQ8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">fAshIon for Impact</a>: My first hackathon project ever! Designed for Microsoft Hackathon and presented at the NYC 2023 Microsoft Mentorship Program! A web extension designed to make e-shopping for clothing more accessible to users, while reducing textile waste and offering a new way for fashion companies to cater their products to the intended audience!
 
 ### 🌐 Get to know me outside of computer science:
-<img src="https://img.shields.io/badge/<maggeema>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/maggeema%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maggeema) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maggeema) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maggeema) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maggiema6006) 
 
 ### ✨ Sharing some wise words:
